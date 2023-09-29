@@ -1,5 +1,5 @@
 <p>
-  <img src=”https://user-images.githubusercontent.com/144585755/271675664-841a2792-eb3f-4d41-b507-471bab972e9b.jpg" alt=”my banner">
+  <img src=”https://github.com/NeerajSh-16/NeerajSh-16/assets/144585755/b92106aa-ce22-4fdd-a419-71f1a3087038" alt=”my banner">
 </p>
 <h1 align="center">Hi 👋, I'm Neeraj Sharma</h1>
 <h3 align="center">Creative coder and artist with a unique blend of technical expertise and artistic vision. Proficient in crafting innovative digital experiences through code and design. Passionate about pushing the boundaries of creativity and technology to deliver visually stunning and interactive projects.</h3>
