@@ -1,4 +1,4 @@
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png(https://www.canva.com/design/DAFv2Qior6U/tdlq4UELuSHCjaSbPht7Mw/edit)" alt=”my banner”>
+<img src=”https://https://www.canva.com/design/DAFv2Qior6U/tdlq4UELuSHCjaSbPht7Mw/edit" alt=”my banner”>
 <h1 align="center">Hi 👋, I'm Neeraj Sharma</h1>
 <h3 align="center">Creative coder and artist with a unique blend of technical expertise and artistic vision. Proficient in crafting innovative digital experiences through code and design. Passionate about pushing the boundaries of creativity and technology to deliver visually stunning and interactive projects.</h3>
 
