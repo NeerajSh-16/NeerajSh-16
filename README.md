@@ -3,7 +3,6 @@
 <h3 align="center">Master of Code and Canvas: Blending Technology with Artistry</h3>
 <img src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif" align="right" width="400" alt="coding">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajsh-16&label=Profile%20views&color=0e75b6&style=flat" alt="neerajsh-16" /> </p>
 
 - 🔭 I’m currently working on [Ascii Art](https://github.com/NeerajSh-16/ascii-art)
 
